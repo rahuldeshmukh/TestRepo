@@ -1,0 +1,3 @@
+[submodule "TestRepoOne"]
+	path = TestRepoOne
+	url = git@github.com:rahuldeshmukh/TestRepoOne.git
